@@ -1,0 +1,10 @@
+E:\Colege\ООП\V-2\lab7\lab7\bin\Debug\lab7.exe.config
+E:\Colege\ООП\V-2\lab7\lab7\bin\Debug\lab7.exe
+E:\Colege\ООП\V-2\lab7\lab7\bin\Debug\lab7.pdb
+E:\Colege\ООП\V-2\lab7\lab7\obj\Debug\lab7.csprojResolveAssemblyReference.cache
+E:\Colege\ООП\V-2\lab7\lab7\obj\Debug\lab7.fMain.resources
+E:\Colege\ООП\V-2\lab7\lab7\obj\Debug\lab7.Properties.Resources.resources
+E:\Colege\ООП\V-2\lab7\lab7\obj\Debug\lab7.csproj.GenerateResource.Cache
+E:\Colege\ООП\V-2\lab7\lab7\obj\Debug\lab7.csproj.CoreCompileInputs.cache
+E:\Colege\ООП\V-2\lab7\lab7\obj\Debug\lab7.exe
+E:\Colege\ООП\V-2\lab7\lab7\obj\Debug\lab7.pdb

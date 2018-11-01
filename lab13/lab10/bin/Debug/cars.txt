@@ -1,0 +1,2 @@
+﻿ВАЗ	Лада	Lada	12	100000	True	False	0	
+Scoda	Scoda	Scoda	5	200000	True	False	0	

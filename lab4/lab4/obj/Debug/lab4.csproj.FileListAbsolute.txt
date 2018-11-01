@@ -1,0 +1,7 @@
+E:\Colege\ООП\lab4\lab4\bin\Debug\lab4.exe.config
+E:\Colege\ООП\lab4\lab4\bin\Debug\lab4.exe
+E:\Colege\ООП\lab4\lab4\bin\Debug\lab4.pdb
+E:\Colege\ООП\lab4\lab4\obj\Debug\lab4.csprojResolveAssemblyReference.cache
+E:\Colege\ООП\lab4\lab4\obj\Debug\lab4.csproj.CoreCompileInputs.cache
+E:\Colege\ООП\lab4\lab4\obj\Debug\lab4.exe
+E:\Colege\ООП\lab4\lab4\obj\Debug\lab4.pdb

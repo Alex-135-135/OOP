@@ -1,0 +1,9 @@
+E:\Colege\ООП\V-2\lab9\lab9\bin\Debug\lab9.exe.config
+E:\Colege\ООП\V-2\lab9\lab9\bin\Debug\lab9.exe
+E:\Colege\ООП\V-2\lab9\lab9\bin\Debug\lab9.pdb
+E:\Colege\ООП\V-2\lab9\lab9\obj\Debug\lab9.csprojResolveAssemblyReference.cache
+E:\Colege\ООП\V-2\lab9\lab9\obj\Debug\lab9.fMain.resources
+E:\Colege\ООП\V-2\lab9\lab9\obj\Debug\lab9.Properties.Resources.resources
+E:\Colege\ООП\V-2\lab9\lab9\obj\Debug\lab9.csproj.GenerateResource.Cache
+E:\Colege\ООП\V-2\lab9\lab9\obj\Debug\lab9.exe
+E:\Colege\ООП\V-2\lab9\lab9\obj\Debug\lab9.pdb

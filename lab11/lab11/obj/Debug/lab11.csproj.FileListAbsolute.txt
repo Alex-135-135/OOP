@@ -1,0 +1,9 @@
+E:\Colege\ООП\V-2\lab11\lab11\bin\Debug\lab11.exe.config
+E:\Colege\ООП\V-2\lab11\lab11\bin\Debug\lab11.exe
+E:\Colege\ООП\V-2\lab11\lab11\bin\Debug\lab11.pdb
+E:\Colege\ООП\V-2\lab11\lab11\obj\Debug\lab11.csprojResolveAssemblyReference.cache
+E:\Colege\ООП\V-2\lab11\lab11\obj\Debug\lab11.fMain.resources
+E:\Colege\ООП\V-2\lab11\lab11\obj\Debug\lab11.Properties.Resources.resources
+E:\Colege\ООП\V-2\lab11\lab11\obj\Debug\lab11.csproj.GenerateResource.Cache
+E:\Colege\ООП\V-2\lab11\lab11\obj\Debug\lab11.exe
+E:\Colege\ООП\V-2\lab11\lab11\obj\Debug\lab11.pdb

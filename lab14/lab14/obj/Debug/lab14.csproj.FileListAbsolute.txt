@@ -1,0 +1,6 @@
+E:\Colege\ООП\V-2\lab14\lab14\bin\Debug\lab14.exe.config
+E:\Colege\ООП\V-2\lab14\lab14\bin\Debug\lab14.exe
+E:\Colege\ООП\V-2\lab14\lab14\bin\Debug\lab14.pdb
+E:\Colege\ООП\V-2\lab14\lab14\obj\Debug\lab14.csprojResolveAssemblyReference.cache
+E:\Colege\ООП\V-2\lab14\lab14\obj\Debug\lab14.exe
+E:\Colege\ООП\V-2\lab14\lab14\obj\Debug\lab14.pdb

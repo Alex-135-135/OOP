@@ -1,0 +1,13 @@
+E:\Colege\ООП\V-2\lab10\lab10\bin\Debug\lab10.exe.config
+E:\Colege\ООП\V-2\lab10\lab10\bin\Debug\lab10.exe
+E:\Colege\ООП\V-2\lab10\lab10\bin\Debug\lab10.pdb
+E:\Colege\ООП\V-2\lab10\lab10\obj\Debug\lab10.csprojResolveAssemblyReference.cache
+E:\Colege\ООП\V-2\lab10\lab10\obj\Debug\lab10.fMain.resources
+E:\Colege\ООП\V-2\lab10\lab10\obj\Debug\lab10.Properties.Resources.resources
+E:\Colege\ООП\V-2\lab10\lab10\obj\Debug\lab10.csproj.GenerateResource.Cache
+E:\Colege\ООП\V-2\lab10\lab10\obj\Debug\lab10.exe
+E:\Colege\ООП\V-2\lab10\lab10\obj\Debug\lab10.pdb
+E:\Colege\ООП\V-2\lab10\lab10\obj\Debug\lab10.fCar.resources
+E:\Colege\ООП\lab10\lab10\bin\Debug\lab10.exe.config
+E:\Colege\ООП\lab10\lab10\obj\Debug\lab10.exe
+E:\Colege\ООП\lab10\lab10\obj\Debug\lab10.pdb
